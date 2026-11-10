@@ -1,0 +1,21 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.9.0
+python-dotenv==1.0.1
+openai==1.50.0
+redis==5.0.8
+# 构建脚本 scripts/build_corpus.py 仍通过 PyMySQL 读取课程数据
+pymysql==1.1.1
+# 用户级鉴权：校验后端 Spring Boot 签发的 JWT（HS256/384/512，密钥与后端共享）
+PyJWT==2.9.0
+sse-starlette==2.1.0
+langchain==0.3.0
+langchain-openai==0.2.0
+langchain-community==0.3.0
+httpx==0.27.0
+# ===== 步骤1/2：RAG 依赖（本机已下载模型，容器离线加载，不联网）=====
+chromadb==1.0.15
+sentence-transformers==3.1.1
+jieba==0.42.1
+# ===== 阶段2：课程事件消费者（连 RabbitMQ 消费课程变更事件）=====
+aio-pika==9.4.2

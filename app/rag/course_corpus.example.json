@@ -1,0 +1,482 @@
+[
+  {
+    "id": 90000001,
+    "course_name": "Python Web API 服务设计（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Python Web API 服务设计组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 49.0,
+    "avg_rating": 4.4,
+    "course_code": "DEMO-001",
+    "teacher_name": "演示讲师01",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000002,
+    "course_name": "Java 后端开发基础（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Java 后端开发基础组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 79.0,
+    "avg_rating": 4.5,
+    "course_code": "DEMO-002",
+    "teacher_name": "演示讲师02",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000003,
+    "course_name": "关系型数据库应用开发（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕关系型数据库应用开发组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 99.0,
+    "avg_rating": 4.6,
+    "course_code": "DEMO-003",
+    "teacher_name": "演示讲师03",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000004,
+    "course_name": "异步任务与消息服务（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕异步任务与消息服务组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 129.0,
+    "avg_rating": 4.7,
+    "course_code": "DEMO-004",
+    "teacher_name": "演示讲师04",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000005,
+    "course_name": "微服务接口工程实践（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕微服务接口工程实践组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 159.0,
+    "avg_rating": 4.8,
+    "course_code": "DEMO-005",
+    "teacher_name": "演示讲师05",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000006,
+    "course_name": "后端性能优化方法（公开演示）",
+    "category": "backend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕后端性能优化方法组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 199.0,
+    "avg_rating": 4.9,
+    "course_code": "DEMO-006",
+    "teacher_name": "演示讲师06",
+    "tags": [
+      "API",
+      "后端",
+      "服务开发"
+    ]
+  },
+  {
+    "id": 90000007,
+    "course_name": "现代 HTML 与 CSS 页面构建（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕现代 HTML 与 CSS 页面构建组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 49.0,
+    "avg_rating": 4.4,
+    "course_code": "DEMO-007",
+    "teacher_name": "演示讲师07",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000008,
+    "course_name": "Vue 应用开发入门（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Vue 应用开发入门组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 79.0,
+    "avg_rating": 4.5,
+    "course_code": "DEMO-008",
+    "teacher_name": "演示讲师08",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000009,
+    "course_name": "React 组件化实践（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕React 组件化实践组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 99.0,
+    "avg_rating": 4.6,
+    "course_code": "DEMO-009",
+    "teacher_name": "演示讲师09",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000010,
+    "course_name": "TypeScript 工程基础（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕TypeScript 工程基础组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 129.0,
+    "avg_rating": 4.7,
+    "course_code": "DEMO-010",
+    "teacher_name": "演示讲师10",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000011,
+    "course_name": "前端工程化与构建（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕前端工程化与构建组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 159.0,
+    "avg_rating": 4.8,
+    "course_code": "DEMO-011",
+    "teacher_name": "演示讲师11",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000012,
+    "course_name": "可访问性界面设计（公开演示）",
+    "category": "frontend",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕可访问性界面设计组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 199.0,
+    "avg_rating": 4.9,
+    "course_code": "DEMO-012",
+    "teacher_name": "演示讲师12",
+    "tags": [
+      "前端",
+      "Web",
+      "界面开发"
+    ]
+  },
+  {
+    "id": 90000013,
+    "course_name": "Python 数据分析基础（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Python 数据分析基础组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 49.0,
+    "avg_rating": 4.4,
+    "course_code": "DEMO-013",
+    "teacher_name": "演示讲师13",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000014,
+    "course_name": "SQL 数据查询与分析（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕SQL 数据查询与分析组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 79.0,
+    "avg_rating": 4.5,
+    "course_code": "DEMO-014",
+    "teacher_name": "演示讲师14",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000015,
+    "course_name": "数据可视化方法（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕数据可视化方法组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 99.0,
+    "avg_rating": 4.6,
+    "course_code": "DEMO-015",
+    "teacher_name": "演示讲师15",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000016,
+    "course_name": "数据清洗与 ETL 实践（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕数据清洗与 ETL 实践组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 129.0,
+    "avg_rating": 4.7,
+    "course_code": "DEMO-016",
+    "teacher_name": "演示讲师16",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000017,
+    "course_name": "统计分析入门（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕统计分析入门组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 159.0,
+    "avg_rating": 4.8,
+    "course_code": "DEMO-017",
+    "teacher_name": "演示讲师17",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000018,
+    "course_name": "数据质量管理（公开演示）",
+    "category": "data",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕数据质量管理组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 199.0,
+    "avg_rating": 4.9,
+    "course_code": "DEMO-018",
+    "teacher_name": "演示讲师18",
+    "tags": [
+      "数据",
+      "分析",
+      "可视化"
+    ]
+  },
+  {
+    "id": 90000019,
+    "course_name": "Docker 容器基础（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Docker 容器基础组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 49.0,
+    "avg_rating": 4.4,
+    "course_code": "DEMO-019",
+    "teacher_name": "演示讲师19",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000020,
+    "course_name": "Kubernetes 服务编排（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Kubernetes 服务编排组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 79.0,
+    "avg_rating": 4.5,
+    "course_code": "DEMO-020",
+    "teacher_name": "演示讲师20",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000021,
+    "course_name": "持续集成与交付（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕持续集成与交付组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 99.0,
+    "avg_rating": 4.6,
+    "course_code": "DEMO-021",
+    "teacher_name": "演示讲师21",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000022,
+    "course_name": "Linux 服务运维（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕Linux 服务运维组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 129.0,
+    "avg_rating": 4.7,
+    "course_code": "DEMO-022",
+    "teacher_name": "演示讲师22",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000023,
+    "course_name": "应用监控与可观测性（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕应用监控与可观测性组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 159.0,
+    "avg_rating": 4.8,
+    "course_code": "DEMO-023",
+    "teacher_name": "演示讲师23",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000024,
+    "course_name": "基础设施自动化（公开演示）",
+    "category": "devops",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕基础设施自动化组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 199.0,
+    "avg_rating": 4.9,
+    "course_code": "DEMO-024",
+    "teacher_name": "演示讲师24",
+    "tags": [
+      "DevOps",
+      "部署",
+      "运维"
+    ]
+  },
+  {
+    "id": 90000025,
+    "course_name": "机器学习应用基础（公开演示）",
+    "category": "ai",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕机器学习应用基础组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 49.0,
+    "avg_rating": 4.4,
+    "course_code": "DEMO-025",
+    "teacher_name": "演示讲师25",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  },
+  {
+    "id": 90000026,
+    "course_name": "检索增强生成实践（公开演示）",
+    "category": "ai",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕检索增强生成实践组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 79.0,
+    "avg_rating": 4.5,
+    "course_code": "DEMO-026",
+    "teacher_name": "演示讲师26",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  },
+  {
+    "id": 90000027,
+    "course_name": "自然语言处理入门（公开演示）",
+    "category": "ai",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕自然语言处理入门组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 99.0,
+    "avg_rating": 4.6,
+    "course_code": "DEMO-027",
+    "teacher_name": "演示讲师27",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  },
+  {
+    "id": 90000028,
+    "course_name": "提示词设计方法（公开演示）",
+    "category": "ai",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕提示词设计方法组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 129.0,
+    "avg_rating": 4.7,
+    "course_code": "DEMO-028",
+    "teacher_name": "演示讲师28",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  },
+  {
+    "id": 90000029,
+    "course_name": "模型评估与调优（公开演示）",
+    "category": "ai",
+    "level": "beginner",
+    "description": "本公开演示课程面向入门学习者，围绕模型评估与调优组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 159.0,
+    "avg_rating": 4.8,
+    "course_code": "DEMO-029",
+    "teacher_name": "演示讲师29",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  },
+  {
+    "id": 90000030,
+    "course_name": "AI 应用服务开发（公开演示）",
+    "category": "ai",
+    "level": "intermediate",
+    "description": "本公开演示课程面向进阶学习者，围绕AI 应用服务开发组织示例内容，涵盖核心概念、常用工具与实践练习，适合用于课程检索和 RAG 演示。",
+    "price": 199.0,
+    "avg_rating": 4.9,
+    "course_code": "DEMO-030",
+    "teacher_name": "演示讲师30",
+    "tags": [
+      "AI",
+      "机器学习",
+      "智能应用"
+    ]
+  }
+]

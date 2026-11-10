@@ -1,0 +1,69 @@
+# AI 客服服务日志
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# 环境变量
+.env
+.env.*
+!.env.example
+
+# 测试
+.test-deps/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+pytest_output.txt
+htmlcov/
+.coverage
+
+# ChromaDB 向量存储
+chroma_db/
+
+# 本地评估与运行产物
+/eval_cache/
+/output/
+/eval/**/*.json
+/eval/**/*.jsonl
+*.log
+*.tmp
+/.run_id.tmp
+
+# 尚未确认公开授权的内容
+/docs/
+/rag_evaluation/
+/testdata/
+/app/rag/course_corpus.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
